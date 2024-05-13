@@ -1,2 +1,72 @@
 # 1. WHY PROJECT STAKEHOLDERS MATTER
 ------------------------------------
+
+* Why stakeholders matter
+-------------------------
+			PMI
+			---
+			PROJECTS THAT HAVE A SOLID PROJECT MANAGEMENT AND CHANGE MANAGEMENT TEAMS CANNOT BE SUCCESSFUL WITHOUT ADECUATE SPONSORSHIP.
+
+
+* Project Sponsor
+-----------------
+Key stakeholder who provides resources and advocacy from project initiation to closure.
+
+
+* Key Stakeholders
+------------------
+. Project sponsor
+
+. Project team
+
+. Subject matter experts
+
+. Functional managers
+
+
+* Additional Stakeholders
+-------------------------
+. Consultants
+
+. Regulators
+
+. Community groups
+
+
+			WHO ARE YOUR PROJECT STAKEHOLDERS?
+
+			ARE THEY SUPPORTIVE OR RESISTANT?
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Identify project stakeholders
+-------------------------------
+
+* Collecting Stakeholder Information
+------------------------------------
+1 Ask your project sponsor and your business analyst for a stakeholder list
+
+2 Interview specific team members about stakeholder groups
+
+3 Hold workshops for greater attendance
+
+4 Provide an electronic survery for remote teams
+
+5 Review project documentation
+
+	- Project business case
+
+	- Organizational charts
+
+	- Process flows
+
+	- Lessons learned
+
+
+* Consolidating and Analyzing Stakeholder Information
+------------------------------------------------------
+1 Stakeholder register
+
+2 Stakeholder mapping
+
