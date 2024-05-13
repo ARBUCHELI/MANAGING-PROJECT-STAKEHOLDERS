@@ -1,0 +1,15 @@
+# 2. BUILDING AND SUSTAINING STAKEHOLDER ENGAGEMENT
+---------------------------------------------------
+
+* Define needs and requirements
+-------------------------------
+1 Create a requirements traceability matrix to document and track project requirements throughout the life cycle.
+
+2 Review the business analysis documentation or consult your project charter.
+
+3 Interview Internal Stakeholders.
+
+4 Communicate with original requestor.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
